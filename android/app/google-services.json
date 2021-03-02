@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "528504834137",
+    "project_id": "coffe-machine-flutter-learning",
+    "storage_bucket": "coffe-machine-flutter-learning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528504834137:android:70556c508fbc1d4f938948",
+        "android_client_info": {
+          "package_name": "com.Macius.coffy_machine2_firebase_fluter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528504834137-reteikbn94ovt9sa712hqsdlanirr1bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv5F_lYE1cUK0N-9anNG3z9B4trREMdtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528504834137-reteikbn94ovt9sa712hqsdlanirr1bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
